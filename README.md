@@ -13,7 +13,7 @@
 
 [🇬🇧 English Version](README.en.md)
 
-> 数据抓取时间：2026-10-04 · Star 数由 GitHub Actions 每日自动更新，按热门度排序。
+> 数据抓取时间：2026-10-05 · Star 数由 GitHub Actions 每日自动更新，按热门度排序。
 
 </div>
 
@@ -42,7 +42,7 @@
 
 | 仓库 | Star | 说明 |
 | --- | --- | --- |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 52.2k | 🟢 入门 · **《深入理解 AI Agent：设计原理与工程实践》**（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码。目前最热的中文 Agent 书籍 |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 52.4k | 🟢 入门 · **《深入理解 AI Agent：设计原理与工程实践》**（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码。目前最热的中文 Agent 书籍 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | ⭐ 5.0k | 🟢 入门 · **Hermes Agent 从入门到精通 · 橙皮书系列**：Nous Research 开源 AI Agent 框架实战指南 |
 | [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) | ⭐ 4.3k | 🟡 进阶 · **《御舆：解码 Agent Harness》**：42 万字拆解 AI Agent 的 Harness 骨架，15 章从对话循环到构建你自己的 Agent Harness |
 
@@ -67,7 +67,7 @@
 
 | 仓库 | Star | 说明 |
 | --- | --- | --- |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ⭐ 17.7k | 🟡 进阶 · **DeepSeek Harness 插件精选清单**：dsh 生态插件大全（类 awesome 列表） |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ⭐ 17.8k | 🟡 进阶 · **DeepSeek Harness 插件精选清单**：dsh 生态插件大全（类 awesome 列表） |
 | [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | ⭐ 9.0k | 🟢 入门 · LLM 资料大全：多模态、Agent、MCP、模型训练/推理等 |
 | [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | ⭐ 8.2k | 🔴 深度 · SCIS 封面论文 *The Rise and Potential of LLM-based Agents* 配套论文清单 |
 | [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | ⭐ 4.9k | 🟡 进阶 · AIGC/LLM/AI Agent 算法工程师面试资源平台（三年面试五年模拟） |
@@ -92,8 +92,8 @@
 
 | 仓库 | Star | 说明 |
 | --- | --- | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 272.1k | 🟡 进阶 · **ECC: Agent Harness 性能优化系统**：Skills / Instincts / Memory / Security，服务 Claude Code、Codex、OpenCode 等 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 242.8k | 🟡 进阶 · **DeepSeek Harness**：「万物皆插件」的官方开源 Agent Harness，上线两周即破 20 万 Star |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 272.8k | 🟡 进阶 · **ECC: Agent Harness 性能优化系统**：Skills / Instincts / Memory / Security，服务 Claude Code、Codex、OpenCode 等 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 243.3k | 🟡 进阶 · **DeepSeek Harness**：「万物皆插件」的官方开源 Agent Harness，上线两周即破 20 万 Star |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 83.4k | 🟡 进阶 · **Deer Flow（字节跳动）**：开源长周期 SuperAgent Harness，研究 / 编码 / 创作一体，沙箱 + 记忆 + 工具 + 子 Agent |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 78.0k | 🟢 入门 · **learn-claude-code**：从 0 到 1 手写一个 nano Claude Code 式 Agent Harness（Bash is all you need） |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 69.8k | 🟡 进阶 · **omo/lazycodex**：面向复杂代码库的编码 Agent Harness，专为 Codex / OpenCode 打造 |
@@ -109,11 +109,11 @@
 
 | 仓库 | Star | 说明 |
 | --- | --- | --- |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 206.6k | 🟢 入门 · **n8n**：开源工作流自动化平台（fair-code），原生 AI Agent 能力，可视化编排 Agent 流程 |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187.6k | 🟡 进阶 · **AutoGPT**：自主 AI Agent 先驱项目，人人都能用的通用 Agent 平台 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 206.7k | 🟢 入门 · **n8n**：开源工作流自动化平台（fair-code），原生 AI Agent 能力，可视化编排 Agent 流程 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187.7k | 🟡 进阶 · **AutoGPT**：自主 AI Agent 先驱项目，人人都能用的通用 Agent 平台 |
 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 157.8k | 🟢 入门 · **Dify**：开源 LLM 应用开发平台，可视化构建 Agentic 工作流与 RAG 流水线 |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 147.4k | 🟡 进阶 · **LangChain**：Agent 工程平台，最流行的 LLM 应用开发框架（Python/JS） |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.2k | 🟡 进阶 · **AutoGen**（微软）：面向 Agentic AI 的编程框架，多 Agent 对话与编排 |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.3k | 🟡 进阶 · **AutoGen**（微软）：面向 Agentic AI 的编程框架，多 Agent 对话与编排 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 59.3k | 🟢 入门 · **CrewAI**：角色扮演式多 Agent 协作框架，「角色 + 任务 + 工具」开箱即用 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 🟢 入门 · **Flowise**：可视化拖拽构建 AI Agent 与工作流（开源） |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐ 52.4k | 🟡 进阶 · **LlamaIndex**：领先的文档 Agent 与 RAG 平台，连接数据与 LLM |
