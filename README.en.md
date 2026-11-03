@@ -13,7 +13,7 @@
 
 [🇨🇳 中文版](README.md)
 
-> Data fetched: 2026-11-03 · Star counts are auto-updated daily by GitHub Actions, sorted by popularity.
+> Data fetched: 2026-11-04 · Star counts are auto-updated daily by GitHub Actions, sorted by popularity.
 
 </div>
 
@@ -42,9 +42,9 @@
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 57.0k | 🟢 Beginner · **"Understanding AI Agents: Design Principles & Engineering Practice"** (by Bojie Li) — full text, compiled PDF and per-chapter code. The most popular Chinese AI agent book right now. |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 57.1k | 🟢 Beginner · **"Understanding AI Agents: Design Principles & Engineering Practice"** (by Bojie Li) — full text, compiled PDF and per-chapter code. The most popular Chinese AI agent book right now. |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | ⭐ 5.0k | 🟢 Beginner · **Hermes Agent from Zero to Pro · Orange Book series** — hands-on guide to Nous Research's open-source AI agent framework. |
-| [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) | ⭐ 4.3k | 🟡 Intermediate · **"Yu Yu: Decoding the Agent Harness"** — 420k words dissecting the harness skeleton of AI agents; 15 chapters from the conversation loop to building your own agent harness. |
+| [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) | ⭐ 4.4k | 🟡 Intermediate · **"Yu Yu: Decoding the Agent Harness"** — 420k words dissecting the harness skeleton of AI agents; 15 chapters from the conversation loop to building your own agent harness. |
 
 ## <a id="english-books"></a>2. Open-source Books / Courses (English)
 
@@ -69,11 +69,11 @@
 | --- | --- | --- |
 | [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | ⭐ 8.3k | 🔴 Advanced · Companion paper list for the SCIS cover paper *The Rise and Potential of LLM-based Agents*. |
 | [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | ⭐ 9.1k | 🟢 Beginner · LLM resource hub: multimodality, agents, MCP, model training/inference, and more. |
-| [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | ⭐ 5.1k | 🟡 Intermediate · Interview-prep platform for AIGC/LLM/AI-agent algorithm engineers. |
+| [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | ⭐ 5.2k | 🟡 Intermediate · Interview-prep platform for AIGC/LLM/AI-agent algorithm engineers. |
 | [luo-junyu/Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) | ⭐ 2.9k | 🔴 Advanced · LLM agent survey: methodologies, applications & challenges (continuously updated). |
 | [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) | ⭐ 1.4k | 🔴 Advanced · Resource list built on the *Agentic Reasoning for LLMs* survey. |
 | [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) | ⭐ 1.9k | 🟡 Intermediate · **awesome-agent-harness** — curated Agent Harness engineering resources. |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ⭐ 22.0k | 🟡 Intermediate · **DeepSeek Harness plugin list** — a curated directory of the dsh plugin ecosystem (awesome-style). |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ⭐ 22.2k | 🟡 Intermediate · **DeepSeek Harness plugin list** — a curated directory of the dsh plugin ecosystem (awesome-style). |
 
 ## <a id="agent-rules"></a>5. Agent Rules / Coding-Agent Skill Sets
 
@@ -92,15 +92,15 @@
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 295.6k | 🟡 Intermediate · **ECC: Agent Harness performance optimization system** — Skills / Instincts / Memory / Security for Claude Code, Codex, OpenCode & more. |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 269.6k | 🟡 Intermediate · **DeepSeek Harness** — "Everything is a Plugin": the official open-source agent harness, 200k+ stars within two weeks. |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 84.9k | 🟡 Intermediate · **Deer Flow (ByteDance)** — open-source long-horizon SuperAgent harness: research, code & create, with sandboxes, memory, tools & subagents. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 296.5k | 🟡 Intermediate · **ECC: Agent Harness performance optimization system** — Skills / Instincts / Memory / Security for Claude Code, Codex, OpenCode & more. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 271.0k | 🟡 Intermediate · **DeepSeek Harness** — "Everything is a Plugin": the official open-source agent harness, 200k+ stars within two weeks. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 85.0k | 🟡 Intermediate · **Deer Flow (ByteDance)** — open-source long-horizon SuperAgent harness: research, code & create, with sandboxes, memory, tools & subagents. |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 79.8k | 🟢 Beginner · **learn-claude-code** — build a nano Claude-Code-style agent harness from 0 to 1 ("Bash is all you need"). |
-| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 70.6k | 🟡 Intermediate · **omo/lazycodex** — agent harness for complex codebases, built for Codex / OpenCode. |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 70.7k | 🟡 Intermediate · **omo/lazycodex** — agent harness for complex codebases, built for Codex / OpenCode. |
 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | ⭐ 47.8k | 🟢 Beginner · **CowAgent** — open-source super AI assistant + agent harness with planning, tools/skills and self-evolving memory (formerly chatgpt-on-wechat). |
-| [wshobson/agents](https://github.com/wshobson/agents) | ⭐ 42.1k | 🟡 Intermediate · **Multi-harness plugin marketplace** — plugins for Claude Code / Codex / Cursor / OpenCode. |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | ⭐ 30.9k | 🟡 Intermediate · **Deep Agents** — the batteries-included agent harness from LangChain. |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | ⭐ 34.5k | 🟢 Beginner · **DSH Desktop** — a modern desktop client for the DeepSeek Harness plugin ecosystem ("the desktop is itself a plugin"). |
+| [wshobson/agents](https://github.com/wshobson/agents) | ⭐ 42.2k | 🟡 Intermediate · **Multi-harness plugin marketplace** — plugins for Claude Code / Codex / Cursor / OpenCode. |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | ⭐ 31.0k | 🟡 Intermediate · **Deep Agents** — the batteries-included agent harness from LangChain. |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | ⭐ 34.7k | 🟢 Beginner · **DSH Desktop** — a modern desktop client for the DeepSeek Harness plugin ecosystem ("the desktop is itself a plugin"). |
 | [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) | ⭐ 3.0k | 🟡 Intermediate · **Visa Vulnerability Agentic Harness** — open-source vulnerability-hunting agent harness from Visa. |
 
 ---
@@ -109,15 +109,15 @@
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 209.4k | 🟢 Beginner · **n8n** — fair-code workflow automation platform with native AI agents; build agent flows visually. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 209.5k | 🟢 Beginner · **n8n** — fair-code workflow automation platform with native AI agents; build agent flows visually. |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187.9k | 🟡 Intermediate · **AutoGPT** — the pioneering autonomous agent platform, accessible AI for everyone. |
 | [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 160.3k | 🟢 Beginner · **Dify** — open-source LLM app platform; visually build agentic workflows & RAG pipelines. |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 148.9k | 🟡 Intermediate · **LangChain** — the agent-engineering platform; the most popular LLM framework (Python/JS). |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 149.0k | 🟡 Intermediate · **LangChain** — the agent-engineering platform; the most popular LLM framework (Python/JS). |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.7k | 🟡 Intermediate · **AutoGen (Microsoft)** — programming framework for agentic AI; multi-agent conversation & orchestration. |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.4k | 🟢 Beginner · **CrewAI** — role-playing multi-agent framework: roles + tasks + tools out of the box. |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.5k | 🟢 Beginner · **CrewAI** — role-playing multi-agent framework: roles + tasks + tools out of the box. |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 55.5k | 🟢 Beginner · **Flowise** — drag & drop visual builder for AI agents & workflows (open source). |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐ 52.8k | 🟡 Intermediate · **LlamaIndex** — the leading document-agent & RAG platform connecting data to LLMs. |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 44.3k | 🔴 Advanced · **LangGraph** — low-level orchestration for resilient agents via state graphs (by LangChain). |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 44.4k | 🔴 Advanced · **LangGraph** — low-level orchestration for resilient agents via state graphs (by LangChain). |
 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | ⭐ 31.8k | 🟡 Intermediate · **STORM (Stanford)** — LLM knowledge-curation system; multi-agent research report writing. |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | ⭐ 30.5k | 🟢 Beginner · **OpenAI Agents SDK** — lightweight, powerful multi-agent workflow framework (official). |
 | [huggingface/smolagents](https://github.com/huggingface/smolagents) | ⭐ 30.2k | 🟢 Beginner · **smolagents (Hugging Face)** — a barebones code-first agent library. |
