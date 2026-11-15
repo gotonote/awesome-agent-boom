@@ -116,6 +116,7 @@
 | [microsoft/autogen](https://github.com/microsoft/autogen) | ⭐ 61.8k | 🟡 进阶 · **AutoGen**（微软）：面向 Agentic AI 的编程框架，多 Agent 对话与编排 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 60.9k | 🟢 入门 · **CrewAI**：角色扮演式多 Agent 协作框架，「角色 + 任务 + 工具」开箱即用 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | ⭐ 55.6k | 🟢 入门 · **Flowise**：可视化拖拽构建 AI Agent 与工作流（开源） |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | 🌐 Remote MCP | 🟢 实用 · **No Stairs Please MCP**：面向巡演音乐人与 AI Agent 的北美 2,200+ 现场音乐场地搜索与路线规划远程 MCP 服务 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐ 52.9k | 🟡 进阶 · **LlamaIndex**：领先的文档 Agent 与 RAG 平台，连接数据与 LLM |
 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐ 45.0k | 🔴 深度 · **LangGraph**：用状态图构建弹性 Agent 的低层编排框架（LangChain 出品） |
 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | ⭐ 31.9k | 🟡 进阶 · **STORM**（斯坦福）：LLM 知识策展系统，多智能体协同撰写研究报告 |
