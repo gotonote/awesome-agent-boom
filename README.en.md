@@ -45,6 +45,7 @@
 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 59.1k | 🟢 Beginner · **"Understanding AI Agents: Design Principles & Engineering Practice"** (by Bojie Li) — full text, compiled PDF and per-chapter code. The most popular Chinese AI agent book right now. |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | ⭐ 5.1k | 🟢 Beginner · **Hermes Agent from Zero to Pro · Orange Book series** — hands-on guide to Nous Research's open-source AI agent framework. |
 | [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) | ⭐ 4.4k | 🟡 Intermediate · **"Yu Yu: Decoding the Agent Harness"** — 420k words dissecting the harness skeleton of AI agents; 15 chapters from the conversation loop to building your own agent harness. |
+| [chicogong/agent-systems](https://github.com/chicogong/agent-systems) | ⭐ 3 | 🟢 Beginner / 🟡 Intermediate · **"Illustrated Agent Systems"** — Grokking-Algorithms-style visual guide dissecting 16+ production frameworks (Pi, Codex, Letta, Hermes, Mem0, OpenHands) with 40 original Excalidraw diagrams and 6 zero-dependency interactive trace labs ([Online Reader](https://books.aimake.cc/)). |
 
 ## <a id="english-books"></a>2. Open-source Books / Courses (English)
 

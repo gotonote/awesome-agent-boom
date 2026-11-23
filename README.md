@@ -45,6 +45,7 @@
 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐ 59.1k | 🟢 入门 · **《深入理解 AI Agent：设计原理与工程实践》**（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码。目前最热的中文 Agent 书籍 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | ⭐ 5.1k | 🟢 入门 · **Hermes Agent 从入门到精通 · 橙皮书系列**：Nous Research 开源 AI Agent 框架实战指南 |
 | [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) | ⭐ 4.4k | 🟡 进阶 · **《御舆：解码 Agent Harness》**：42 万字拆解 AI Agent 的 Harness 骨架，15 章从对话循环到构建你自己的 Agent Harness |
+| [chicogong/agent-systems](https://github.com/chicogong/agent-systems) | ⭐ 3 | 🟢 入门 / 🟡 进阶 · **《图解 Agent 系统》**：对标《算法图解》的免费中文图解书。系统拆解 16+ 工业级开源框架（Pi、Codex、Letta、Hermes、Mem0、OpenHands 等），配齐 40 组原创 Excalidraw 矢量架构图与 6 组零外部依赖单步状态机在线实验台（[在线阅读](https://books.aimake.cc/)） |
 
 ## <a id="english-books"></a>🌍 二、开源图书 / 课程（英文）
 
